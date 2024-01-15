@@ -1,0 +1,5 @@
+train: ../yolov7/cranes/Train/images
+val: ../yolov7/cranes/Val/images
+
+nc: 1
+names: ['crane']

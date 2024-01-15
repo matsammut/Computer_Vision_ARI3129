@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>n03126707_9376.JPEG</filename>
+	<path>/my-project-name/n03126707_9376.JPEG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>4</ymin>
+			<xmax>200</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
